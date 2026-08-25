@@ -7,11 +7,11 @@
 </div>
 
 <div align="center">
-to my personal GitHub profile!
+ao meu perfil pessoal do GitHub!
 </div>
 
 <h3 align="center">
-<a href="https://cbp.io">Visit my personal homepage
+<a href="https://linkedin.com/in/guilherme-gomes-justi-3ab20b302">Visite meu LinkedIn
 <img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
@@ -19,14 +19,22 @@ to my personal GitHub profile!
 <hr>
 
 <div align="center">
-<p>Write something nice in my guest book:</p>
-<a href="https://github.com/fnky/fnky/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+<p>Guilherme Gomes Justi — Ciência da Computação (FAI) | ADS (ETEC de Dracena)</p>
+<p>Estagiário de TI — Prefeitura de Junqueirópolis</p>
+<p>cibersegurança · redes · RF fingerprinting/clock skew · automação Linux</p>
 </div>
 
 <hr>
 
 <div align="center">
-<p>Have a good day!</p>
+<p>Escreva algo legal no meu livro de visitas:</p>
+<a href="https://github.com/gu1just1/gu1just1/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+</div>
+
+<hr>
+
+<div align="center">
+<p>Tenha um bom dia!</p>
 <div>
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
 </div>
@@ -34,7 +42,7 @@ to my personal GitHub profile!
 
 <div align="center">
 <p></p>
-<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
+<img src="https://profile-counter.glitch.me/gu1just1/count.svg" alt="hit counter" align="center">
 </div>
 
 <div align="center">
