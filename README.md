@@ -29,8 +29,8 @@
 ### 📖 Livro de Visitas
 
 <div align="center">
-  <p>Abra uma issue para registrar uma mensagem ou colaboração:</p>
-  <a href="https://github.com/gu1just1/gu1just1/issues">
+  <p>Clique no livro abaixo para assinar o Guestbook e deixar sua mensagem:</p>
+  <a href="https://github.com/gu1just1/gu1just1/issues/new?title=📖+Mensagem+no+Livro+de+Visitas&body=Deixe+sua+mensagem%2C+feedback+ou+sauda%C3%A7%C3%A3o+aqui%3A%0A%0A">
     <img src="biblia.gif" alt="Guestbook" width="85" />
   </a>
 </div>
