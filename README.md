@@ -4,8 +4,6 @@
   <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome Fire" />
   <h2>Guilherme Gomes Justi</h2>
   <p><code>Estudante de TI • Redes & Infraestrutura • Programação Estruturada</code></p>
-  <br>
-  <img src="microsoft.gif" alt="Microsoft 3D Retro" width="160" />
 </div>
 
 <hr>
