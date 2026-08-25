@@ -47,7 +47,8 @@
 
 <div align="center">
   <p>Tenha um ótimo dia!</p>
-  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" alt="Dancing Baby" width="110" />
+  <img src="https://media.giphy.com/media/14nNwczrhgaQ5G/giphy.gif" alt="Dancing Baby" width="110" />
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=gu1just1&label=HIT+COUNTER&color=ff0055&style=flat-square" alt="Contador de Acessos" />
+</div>Acessos" />
 </div>
