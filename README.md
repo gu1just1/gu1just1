@@ -1,49 +1,45 @@
 <div align="center">
   <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome Fire" />
   <h2>Guilherme Gomes Justi</h2>
-  <p><b>Desenvolvedor de Software | Ciência da Computação | Infraestrutura & Segurança</b></p>
+  <p><code>Software Developer • Computer Science • Security & Systems</code></p>
 </div>
 
 <hr>
 
-### 🧑‍💻 Perfil Técnico & Metodologia
+### 📌 Visão Geral
 
-Atuando na área de Tecnologia da Informação, meu foco está na construção de sistemas eficientes, automação de tarefas e aplicação rigorosa de **programação estruturada**. Priorizo arquiteturas limpas, redução de ruído e precisão lógica em cada linha de código.
-
-* 🎯 **Foco Operacional:** Desenvolvimento em Python e C, automações em Linux e análise de tráfego de rede.
-* ⚙️ **Engenharia de Software:** Domínio das bases da computação, algoritmos eficientes e versionamento profissional com Git.
-* 🔬 **Pesquisa e Exploração:** Cibersegurança, machine learning aplicado a hardware e otimização de rotinas de TI.
+* **Metodologia:** Programação estruturada, arquitetura limpa e foco em eficiência.
+* **Core Técnico:** Desenvolvimento em **Python** e **C**, automação em ambiente **Linux** e controle de versão com **Git**.
+* **Interesses:** Cibersegurança, análise de tráfego de redes e otimização de sistemas.
 
 ---
 
-### 💾 Arsenal Tecnológico & Ferramentas
+### 🧰 Stack & Ferramentas
 
 <div align="center">
-  <p>Linguagens, protocolos e ambientes utilizados no desenvolvimento de soluções:</p>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,html,css,linux,git,vscode,bash&perline=8" alt="Stack Tecnológica" />
+    <img src="https://skillicons.dev/icons?i=python,c,html,css,linux,git,vscode,bash&perline=8" alt="Stack" />
   </a>
   <br><br>
 </div>
 
 ---
 
-### 📖 Livro de Visitas (Guestbook & Interação)
+### 📖 Livro de Visitas
 
 <div align="center">
-  <p>Deixe sua contribuição, sugestão ou abra um tópico de discussão:</p>
+  <p>Abra uma issue para registrar uma mensagem ou colaboração:</p>
   <a href="https://github.com/gu1just1/gu1just1/issues">
-    <img src="biblia.gif" alt="Livro de Visitas" width="90" />
+    <img src="biblia.gif" alt="Guestbook" width="85" />
   </a>
 </div>
 
 ---
 
-### 📡 Protocolos de Comunicação & Redes
+### 📡 Contato
 
 <div align="center">
-  <p>Canais oficiais para contato profissional e colaborações técnicas:</p>
   <br>
   <a href="https://www.linkedin.com/in/guilherme-gomes-justi-3ab20b302" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -62,7 +58,6 @@ Atuando na área de Tecnologia da Informação, meu foco está na construção d
 ---
 
 <div align="center">
-  <p><i>"A excelência técnica está na clareza da lógica e na precisão da execução."</i></p>
   <p>Tenha um ótimo dia!</p>
-  <img src="bebychacha.gif" alt="Dancing Baby" width="110" />
+  <img src="bebychacha.gif" alt="Dancing Baby" width="105" />
 </div>
