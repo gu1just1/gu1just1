@@ -21,7 +21,7 @@
   <h3>📖 Livro de Visitas (Guestbook)</h3>
   <p>Deixe uma mensagem ou abra um chamado no repositório:</p>
   <a href="https://github.com/gu1just1/gu1just1/issues">
-    <img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Livro de Visitas" />
+    <img src="biblia.gif" alt="Livro de Visitas" width="90" />
   </a>
 </div>
 
