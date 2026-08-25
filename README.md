@@ -34,7 +34,6 @@
     <img src="biblia.gif" alt="Guestbook" width="85" />
   </a>
 </div>
-
 ---
 
 ### 📡 Contato
