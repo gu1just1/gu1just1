@@ -3,16 +3,16 @@
   <br>
   <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome Fire" />
   <h2>Guilherme Gomes Justi</h2>
-  <p><code>Software Developer • Computer Science • Security & Systems</code></p>
+  <p><code>Estudante de TI • Redes & Infraestrutura • Programação Estruturada</code></p>
 </div>
 
 <hr>
 
 ### 📌 Visão Geral
 
-* **Metodologia:** Programação estruturada, arquitetura limpa e foco em eficiência.
-* **Core Técnico:** Desenvolvimento em **Python** e **C**, automação em ambiente **Linux** e controle de versão com **Git**.
-* **Interesses:** Cibersegurança, análise de tráfego de redes e otimização de sistemas.
+* **Perfil:** Estudante de Tecnologia com foco nos fundamentos da computação, infraestrutura e arquitetura de sistemas.
+* **Núcleo Técnico:** Desenvolvimento estruturado em **C** e **Python**, automação em ambiente **Linux**, estudos em redes de computadores (**Cisco**) e controle de versão com **Git**.
+* **Metodologia:** Rigor na lógica, código limpo sem atalhos superficiais, estabilidade técnica e foco em execução precisa.
 
 ---
 
