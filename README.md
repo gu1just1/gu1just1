@@ -30,7 +30,7 @@
 
 <div align="center">
   <p>Clique no livro abaixo para assinar o Guestbook e deixar sua mensagem:</p>
-  <a href="https://github.com/gu1just1/gu1just1/issues/new?title=📖+Mensagem+no+Livro+de+Visitas&body=Deixe+sua+mensagem%2C+feedback+ou+sauda%C3%A7%C3%A3o+aqui%3A%0A%0A">
+  <a href="https://github.com/gu1just1/gu1just1/issues/new">
     <img src="biblia.gif" alt="Guestbook" width="85" />
   </a>
 </div>
