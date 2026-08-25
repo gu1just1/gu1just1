@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Ventilador Retro" />
+  <br>
   <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome Fire" />
   <h2>Guilherme Gomes Justi</h2>
   <p><code>Software Developer • Computer Science • Security & Systems</code></p>
