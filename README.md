@@ -1,7 +1,4 @@
 <div align="center">
-  <!-- O CLÁSSICO DANCING BABY -->
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/23/Baby_dance.gif" alt="Dancing Baby" width="120" />
-  <br><br>
   <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome Fire" />
   <h2>Bem-vindo à página de desenvolvimento de Guilherme Justi! 🌐</h2>
   <p><b>Estagiário de TI & Estudante de Ciência da Computação</b></p>
@@ -50,9 +47,7 @@
 
 <div align="center">
   <p>Tenha um ótimo dia!</p>
-  <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" />
+  <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" alt="Dancing Baby" width="110" />
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=gu1just1&label=HIT+COUNTER&color=ff0055&style=flat-square" alt="Contador de Acessos" />
-  <br><br>
-  <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Melhor visualizado no Internet Explorer" width="128" />
 </div>
