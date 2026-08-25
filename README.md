@@ -16,6 +16,16 @@
 
 ---
 
+### 💻 Tecnologias & Ferramentas
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,html,css,linux,git,vscode,bash&perline=8" alt="Tecnologias" />
+  </a>
+</div>
+
+---
+
 ### 📖 Livro de Visitas
 
 <div align="center">
