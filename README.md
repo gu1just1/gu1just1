@@ -1,50 +1,57 @@
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
-</div>
-
-<div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
-</div>
-
-<div align="center">
-ao meu perfil pessoal do GitHub!
-</div>
-
-<h3 align="center">
-<a href="https://linkedin.com/in/guilherme-gomes-justi-3ab20b302">Visite meu LinkedIn
-<img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
-</a>
-</h3>
-
-<hr>
-
-<div align="center">
-<p>Guilherme Gomes Justi — Ciência da Computação (FAI) | ADS (ETEC de Dracena)</p>
-<p>Estagiário de TI — Prefeitura de Junqueirópolis</p>
-<p>cibersegurança · redes · RF fingerprinting/clock skew · automação Linux</p>
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Ventilador Retro" />
+  <br>
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome Fire" />
+  <h2>Bem-vindo à página de desenvolvimento de Guilherme Justi! 🌐</h2>
+  <p><b>Estagiário de TI & Estudante de Ciência da Computação</b></p>
 </div>
 
 <hr>
 
 <div align="center">
-<p>Escreva algo legal no meu livro de visitas:</p>
-<a href="https://github.com/gu1just1/gu1just1/issues"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+  <h3>💾 [Stack Tecnológica & Arsenal] 💾</h3>
+  <p>Construindo lógica limpa e programação estruturada:</p>
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,html,css,linux,git,vscode,bash&perline=8" />
+  </a>
 </div>
 
 <hr>
 
 <div align="center">
-<p>Tenha um bom dia!</p>
-<div>
-<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
-</div>
-</div>
-
-<div align="center">
-<p></p>
-<img src="https://profile-counter.glitch.me/gu1just1/count.svg" alt="hit counter" align="center">
+  <h3>📖 Livro de Visitas (Guestbook)</h3>
+  <p>Deixe uma mensagem ou abra um chamado no repositório:</p>
+  <a href="https://github.com/gu1just1/gu1just1/issues">
+    <img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Livro de Visitas" />
+  </a>
 </div>
 
+<hr>
+
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
+  <h3>📡 Contato & Redes Oficiais</h3>
+  <br>
+  <a href="https://www.linkedin.com/in/guilherme-gomes-justi-3ab20b302" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:guizera057@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/gu1just1">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+<hr>
+
+<div align="center">
+  <p>Tenha um ótimo dia!</p>
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" />
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=gu1just1&label=HIT+COUNTER&color=ff0055&style=flat-square" alt="Contador de Acessos" />
+  <br><br>
+  <img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Melhor visualizado no Internet Explorer" width="128" />
 </div>
