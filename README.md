@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Ventilador Retro" />
-  <br>
+  <!-- O CLÁSSICO DANCING BABY -->
+  <img src="https://upload.wikimedia.org/wikipedia/en/2/23/Baby_dance.gif" alt="Dancing Baby" width="120" />
+  <br><br>
   <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome Fire" />
   <h2>Bem-vindo à página de desenvolvimento de Guilherme Justi! 🌐</h2>
   <p><b>Estagiário de TI & Estudante de Ciência da Computação</b></p>
