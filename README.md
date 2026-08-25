@@ -4,6 +4,8 @@
   <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome Fire" />
   <h2>Guilherme Gomes Justi</h2>
   <p><code>Estudante de TI • Redes & Infraestrutura • Programação Estruturada</code></p>
+  <br>
+  <img src="microsoft.gif" alt="Microsoft 3D Retro" width="160" />
 </div>
 
 <hr>
@@ -13,18 +15,6 @@
 * **Perfil:** Estudante de Tecnologia com foco nos fundamentos da computação, infraestrutura e arquitetura de sistemas.
 * **Núcleo Técnico:** Desenvolvimento estruturado em **C** e **Python**, automação em ambiente **Linux**, estudos em redes de computadores (**Cisco**) e controle de versão com **Git**.
 * **Metodologia:** Rigor na lógica, código limpo sem atalhos superficiais, estabilidade técnica e foco em execução precisa.
-
----
-
-### 🧰 Stack & Ferramentas
-
-<div align="center">
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,html,css,linux,git,vscode,bash&perline=8" alt="Stack" />
-  </a>
-  <br><br>
-</div>
 
 ---
 
